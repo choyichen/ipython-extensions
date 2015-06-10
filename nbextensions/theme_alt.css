@@ -9,9 +9,10 @@
 
 /*
     COLORS
+google 'cm-s-ipython' to see more customizable elements.
 */
 
-.cm-s-ipython { background-color: #002b36; color: #839496; }
+.cm-s-ipython { background-color: #161616; color: #839496; }
 .cm-s-ipython span.cm-keyword {color: #859900; font-weight: bold;}
 .cm-s-ipython span.cm-number {color: #b58900;}
 .cm-s-ipython span.cm-operator {color: #268bd2; font-weight: bold;}
@@ -20,4 +21,5 @@
 .cm-s-ipython span.cm-string {color: #2aa198;}
 .cm-s-ipython span.cm-error {color: #dc322f;}
 .cm-s-ipython span.cm-builtin {color: #cb4b16;}
-.cm-s-ipython span.cm-variable {color: #839496;}
+.cm-s-ipython span.cm-variable {color: #dedece;}
+.cm-s-ipython span.cm-def { color: #268bd2; font-weight: bold; }
